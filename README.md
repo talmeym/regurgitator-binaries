@@ -1,2 +1,2 @@
 # regurgitator-binaries
-binaries for regurgtiator
+binaries for regurgitator
